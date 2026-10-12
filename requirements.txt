@@ -1,0 +1,5 @@
+dash>=3.0
+plotly>=5.20
+numpy
+scikit-learn
+matplotlib

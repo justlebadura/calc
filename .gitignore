@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Salidas de export_animation.py
+*.mp4
+*.gif
+
+# Sistema
+.DS_Store
